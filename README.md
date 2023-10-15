@@ -6,8 +6,8 @@ This project has 2 phases. The first phase evaluates 4 different randomized opti
 * Hotel Reservations Dataset: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset?select=Hotel+Reservations.csv
 
 ### Run Code Instuctions
-* open collab notebook with models for dataset#1:  https://colab.research.google.com/github/naralakamsani/supervised_learning/blob/main/bike_sharing_demand.ipynb
-* open collab notebook with models for dataset#2:  https://colab.research.google.com/github/naralakamsani/supervised_learning/blob/main/reservation_retention.ipynb
+* open collab notebook for part 1 with generic optimization problems:  https://colab.research.google.com/github/naralakamsani/randomized_optimization/blob/main/randomized_optimization_problems.ipynb
+* open collab notebook for part 2 with neural network training:  https://colab.research.google.com/github/naralakamsani/randomized_optimization/blob/main/randomized_optimization_neural_net.ipynb
 * Click on the runtime option above. Then proceed to click run all to run the entire notebooks
 * note: It might take a while to finish running the whole notebooks, so it might be ideal to run only a few desired focused cells
 
