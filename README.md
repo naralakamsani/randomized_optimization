@@ -2,6 +2,8 @@
     Narasimha Lakamsani - nlakamsani3@gatech.edu
 This project has 2 phases. The first phase evaluates 4 different randomized optimization algorithms: Random Hill Climbing (RHC), Simulated Annealing (SA), Genetic Algorithms (GA) and Mutual Information Maximizing Input Clustering (MIMIC). They are analyzed on 3 different optimization problems. The second phase involves comparing the randomized optimization algorithms against backpropagation in a neural network classifier.
 
+### Dataset
+* Hotel Reservations Dataset: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset?select=Hotel+Reservations.csv
 
 ### Run Code Instuctions
 * open collab notebook with models for dataset#1:  https://colab.research.google.com/github/naralakamsani/supervised_learning/blob/main/bike_sharing_demand.ipynb
